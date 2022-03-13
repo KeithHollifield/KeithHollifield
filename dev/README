@@ -1,0 +1,21 @@
+==================================================================
+DEV: DEVELOPMENT DIRECTORY
+==================================================================
+dev : Root directory for all development related projects.
+
+Default forlder name is: $USERNAME/dev
+
+Default project folders:
+bash
+batch
+cpp
+CSharp
+html
+java
+javascript
+ksh
+node
+perl
+python
+SQL
+------------------------------------------------------------------
